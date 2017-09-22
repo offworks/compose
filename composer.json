@@ -1,0 +1,10 @@
+{
+    "require": {
+        "offworks/wizard": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "Offworks\\Hex\\": "src"
+        }
+    }
+}

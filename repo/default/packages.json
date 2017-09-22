@@ -1,0 +1,72 @@
+{
+  "microframework": [
+    {
+      "name": "rosengate/exedra",
+      "version": "*"
+    },
+    {
+      "name": "slim/slim",
+      "version": "~3.0"
+    },
+    {
+      "name": "silex/silex",
+      "version": "*"
+    }
+  ],
+  "templating": [
+    {
+      "name": "twig/twig",
+      "version": "~1.0"
+    }
+  ],
+  "image_manipulation": [
+    {
+      "name": "intervention/image",
+      "version": "*"
+    }
+  ],
+  "filesystem": [
+    {
+      "name": "league/flysystem",
+      "version": "*"
+    }
+  ],
+  "validation": [
+    {
+      "name": "vlucas/valitron",
+      "version": "*"
+    },
+    {
+      "name": "respect/validation",
+      "version": "*"
+    }
+  ],
+  "mailing": [
+    {
+      "name": "phpmailer/phpmailer",
+      "version": "~6.0"
+    },
+    {
+      "name": "swiftmailer/swiftmailer",
+      "version": "*"
+    }
+  ],
+  "cli": [
+    {
+      "name": "symfony/console",
+      "version": "*"
+    }
+  ],
+  "debug": [
+    {
+      "name": "filp/whoops",
+      "version": "*"
+    }
+  ],
+  "http": [
+    {
+      "name": "guzzlehttp/guzzle",
+      "version": "*"
+    }
+  ]
+}
